@@ -162,6 +162,7 @@
     <Content Include="INSTRUCTIONS\Instructions.txt" />
     <Content Include="Rebecca\CodeTheWayHTML.html" />
     <Content Include="Rebecca\HFH.html" />
+    <Content Include="Rebecca\LifeNavigators.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
