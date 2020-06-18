@@ -131,6 +131,10 @@
     <Content Include="Artie Krishnan\Heroes for Health.html" />
     <Content Include="Artie Krishnan\LifeNavigators.html" />
     <Content Include="Artie Krishnan\Media.html" />
+    <Content Include="Bagwell\CodeTheWay.html" />
+    <Content Include="Bagwell\HFH.html" />
+    <Content Include="Bagwell\Media.html" />
+    <Content Include="Bagwell\LifeNavigators.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -164,6 +168,10 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators4.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
+    <Content Include="Rebecca\CodeTheWayHTML.html" />
+    <Content Include="Rebecca\HFH.html" />
+    <Content Include="Rebecca\LifeNavigators.html" />
+    <Content Include="Rebecca\Media.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
