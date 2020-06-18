@@ -1,12 +1,12 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-
+    <script src="mySite.js"></script>
     <link href="ctwCSS.css" rel="stylesheet" />
     <meta charset="utf-8" />
     <title>Heros For Healthcare Mission statment</title>
 </head>
-<body>
+<body onload="showHide()">
     <img src="../IMAGE_CONTENT/Heroes for Healthcare/Heroes Logo.png" />
     <h1 style="text-align:center;" class="majorHeading">
         Heros For Healthcare
@@ -22,27 +22,40 @@
     </p>
 
     <img src="../IMAGE_CONTENT/Heroes for Healthcare/Heroes3.png" align="right" width="425" />
-    <h3 align="right" class="minorHeading">
-        Unemployed Veterans
-    </h3>
-    <p style="text-align:right;">
-        Many U.S. Veterans find it hard to secure a job in healthcare when they’re ready to work in the civilian world. Even after showing dedication, strong work ethic, and leadership while serving our country, many military members can’t find jobs.
-    </p>
+    <div class="tooltip">
+        <h3 align="right" class="minorHeading">
+            Unemployed Veterans
+        </h3>
 
-    <ul align="right">
-        <div class="generalText">
-            <li>
-                453,000 unemployed veterans in 2016
-            </li>
-            <li>Post-Sept. 11 veterans tend to be unemployed at higher rates than other veterans</li>
+        <p style="text-align:right;">
+            Many U.S. Veterans find it hard to secure a job in healthcare when they’re ready to work in the civilian world. Even after showing dedication, strong work ethic, and leadership while serving our country, many military members can’t find jobs.
+
+        </p>
+        <div class="tooltiptext">
+            <div class="generalText">
+                <ul align="right">
+
+                    <li>
+                        453,000 unemployed veterans in 2016
+                    </li>
+                    <li>Post-Sept. 11 veterans tend to be unemployed at higher rates than other veterans</li>
+
+                </ul>
+            </div>
         </div>
-    </ul>
-    <h3 class="minorHeading">Message from the president</h3>
-    <p class="generalText">
-        I started Heroes for Healthcare to help our U.S. military personnel receive the resources and credentials they need to continue their career in healthcare as a civilian. We need supporters like you to help our mission so our service members can get a job and better their lives. After all they did for us, supporting this organization seems like the right thing to do. Make a difference today by supporting Heroes for Healthcare.
-    </p>
+    </div>
+        <button onclick="showHide()" class="buttonFormatting">The Presidants message</button>
+        <div id="vision">
+            <p class="minorHeading">Message from the president</p>
+            <div class="generalText">
+                <p>I started Heroes for Healthcare to help our U.S. military personnel receive the resources and credentials they need to continue their career in healthcare as a civilian. We need supporters like you to help our mission so our service members can get a job and better their lives. After all they did for us, supporting this organization seems like the right thing to do. Make a difference today by supporting Heroes for Healthcare.</p>
+            </div>
+        </div>
 
-    <a href="CodeTheWay.html" class="buttonFormatting">Home</a>
+
+
+
+        <a href="CodeTheWay.html" class="buttonFormatting">Home</a>
 
 
 </body>
