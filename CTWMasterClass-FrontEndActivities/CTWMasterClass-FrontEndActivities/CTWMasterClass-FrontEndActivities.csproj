@@ -128,6 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Artie Krishnan\CodeTheWay.html" />
+    <Content Include="Artie Krishnan\ctw.css" />
     <Content Include="Artie Krishnan\Heroes for Health.html" />
     <Content Include="Artie Krishnan\LifeNavigators.html" />
     <Content Include="Artie Krishnan\Media.html" />
