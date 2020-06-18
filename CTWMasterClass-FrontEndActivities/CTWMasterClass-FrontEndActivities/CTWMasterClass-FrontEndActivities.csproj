@@ -164,6 +164,7 @@
     <Content Include="Rebecca\HFH.html" />
     <Content Include="Rebecca\LifeNavigators.html" />
     <Content Include="Rebecca\Media.html" />
+    <Content Include="Rebecca\style.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
