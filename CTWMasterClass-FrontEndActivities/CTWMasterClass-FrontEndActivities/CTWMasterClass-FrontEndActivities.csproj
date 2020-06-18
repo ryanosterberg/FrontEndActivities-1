@@ -162,6 +162,7 @@
     <Content Include="INSTRUCTIONS\Instructions.txt" />
     <Content Include="Rebecca\CodeTheWayHTML.html" />
     <Content Include="Rebecca\HFH.html" />
+    <Content Include="Rebecca\JavaScript.js" />
     <Content Include="Rebecca\LifeNavigators.html" />
     <Content Include="Rebecca\Media.html" />
     <Content Include="Rebecca\style.css" />
