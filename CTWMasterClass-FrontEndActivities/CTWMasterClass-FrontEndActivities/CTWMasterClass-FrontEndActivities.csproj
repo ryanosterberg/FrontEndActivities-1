@@ -160,10 +160,17 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators4.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
+<<<<<<< HEAD
     <Content Include="Jacob\CodeTheWay.html" />
     <Content Include="Jacob\HerosForHealthcare.html" />
     <Content Include="Jacob\LifeNavigators.html" />
     <Content Include="Jacob\Media.html" />
+=======
+    <Content Include="Rebecca\CodeTheWayHTML.html" />
+    <Content Include="Rebecca\HFH.html" />
+    <Content Include="Rebecca\LifeNavigators.html" />
+    <Content Include="Rebecca\Media.html" />
+>>>>>>> dev
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
