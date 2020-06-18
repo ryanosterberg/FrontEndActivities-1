@@ -131,6 +131,7 @@
     <Content Include="Bagwell\HFH.html" />
     <Content Include="Bagwell\Media.html" />
     <Content Include="Bagwell\LifeNavigators.html" />
+    <Content Include="Bagwell\mySite.js" />
     <Content Include="Bagwell\site.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
