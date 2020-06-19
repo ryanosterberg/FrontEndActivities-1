@@ -128,10 +128,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Artie Krishnan\CodeTheWay.html" />
+    <Content Include="Artie Krishnan\CTW 2.html" />
     <Content Include="Artie Krishnan\ctw.css" />
     <Content Include="Artie Krishnan\Heroes for Health.html" />
+    <Content Include="Artie Krishnan\HFH 2.html" />
     <Content Include="Artie Krishnan\JavaScript.js" />
     <Content Include="Artie Krishnan\LifeNavigators.html" />
+    <Content Include="Artie Krishnan\LN 2.html" />
     <Content Include="Artie Krishnan\Media.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
