@@ -128,9 +128,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Bagwell\CodeTheWay.html" />
+    <Content Include="Bagwell\CodeTheWay2.html" />
     <Content Include="Bagwell\HFH.html" />
+    <Content Include="Bagwell\HFH2.html" />
+    <Content Include="Bagwell\LifeNavigators2.html" />
     <Content Include="Bagwell\Media.html" />
     <Content Include="Bagwell\LifeNavigators.html" />
+    <Content Include="Bagwell\Media2.html" />
     <Content Include="Bagwell\mySite.js" />
     <Content Include="Bagwell\site.css" />
     <Content Include="Content\bootstrap-theme.css" />
