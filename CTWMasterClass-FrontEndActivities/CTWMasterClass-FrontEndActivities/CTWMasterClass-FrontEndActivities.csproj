@@ -164,8 +164,11 @@
     <Content Include="Jacob\CodeTheWayV2.html" />
     <Content Include="Jacob\ctwCSS.css" />
     <Content Include="Jacob\HerosForHealthcare.html" />
+    <Content Include="Jacob\HerosForHealthcareV2.html" />
     <Content Include="Jacob\LifeNavigators.html" />
+    <Content Include="Jacob\LifeNavigatorsV2.html" />
     <Content Include="Jacob\Media.html" />
+    <Content Include="Jacob\MediaV2.html" />
     <Content Include="Jacob\mySite.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
